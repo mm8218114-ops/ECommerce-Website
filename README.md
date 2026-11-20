@@ -1,4 +1,4 @@
-# 🛒 [Project Name] — E-Commerce Web Application
+# 🛒 Project Name — E-Commerce Web Application
 
 A responsive, full-stack e-commerce web application built with **React.js** and modern web technologies. It allows users to browse a dynamic product catalog, filter items by category and price, manage a shopping cart, and authenticate securely.
 
